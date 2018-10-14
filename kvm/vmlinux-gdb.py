@@ -1,0 +1,1 @@
+/home/rkimura/Programming/linux-4.13/scripts/gdb/vmlinux-gdb.py
